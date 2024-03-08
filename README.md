@@ -46,7 +46,7 @@ This project is a task management system with user authentication and task track
    - Select 'e' to exit the program.
 
 ## Credits
-- [Oxana] (https://github.com/OxanaWWW)
+- [Oxana](https://github.com/OxanaWWW)
 
 
 
