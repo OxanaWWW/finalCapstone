@@ -46,7 +46,7 @@ This project is a task management system with user authentication and task track
    - Select 'e' to exit the program.
 
 ## Credits
-- [Your Name]
-- [Additional Contributor Names, if any] 
+- Oxana
+   
 
 
